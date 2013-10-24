@@ -7,7 +7,7 @@ Prepros has full support for Sass and Compass.
 
 If the sass files are saved in `sass/scss` folder the output css is saved to user defined css folder. You can change css folder from [project options](projects.html).
 
-Sass and Scss partials are ignored from files list but they are stil warched if imported by another file.
+Sass and Scss partials are ignored from files list but they are still watched if imported by another file.
 If any sass, scss file is imported by another file the imported file is not shown in the file list but the file is watched and parent file is compiled whenever the imported file is changed.
 
 You can change various file options from file options panel such as output style.

@@ -8,7 +8,7 @@ Prepros has full support for Sass and Compass.
 Prepros identifies Sass and Scss files in the project folder and adds them to the list of files to compile.
 
 Any Sass and Scss file (i.e. including partials) imported by another file are not shown in the files list 
-but they are still watched by Prepose. The parent file is re-compiled whenever any of the imported files are changed.
+but they are still watched by Prepros. The parent file is re-compiled whenever any of the imported files are changed.
 
 When the Sass and Scss file is compiled, a css file is created/updated that inherits the Sass/Scss partent file name with a .css extension. If the Sass files are saved in `sass/scss` folder the output css is saved 
 to user defined css folder. You can change css folder from [project options](projects.html).

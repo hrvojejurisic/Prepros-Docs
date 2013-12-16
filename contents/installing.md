@@ -8,7 +8,7 @@ template: index.jade
 
 ### Installing the App
 
-*(Windows, OSX 10.*+)*
+*(Windows, OSX 10.8+)*
 
 NOTE: Prepros may work in OSX 10.7 but it's not officially supported.
 

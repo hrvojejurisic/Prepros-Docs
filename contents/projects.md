@@ -16,7 +16,7 @@ If you drag and drop a file instead of the folder, The parent folder of the file
 
 __2. Using [ + ] button.__
 
-You can add new project to Prepros by clicking the plus icon on the title bar of app window.
+You can add new project to Prepros by clicking the plus icon on the bottom of the sidebar.
 
 ![Using plus icon to add new project](img/projects/plus-icon.jpg)
 
@@ -24,7 +24,7 @@ You can add new project to Prepros by clicking the plus icon on the title bar of
 
 ###Project Toolbar
 
-When You select a project on Prepros a toolbar appears next to the `plus` icon. You can use the toolbar to manage your projects options.
+When You select a project on Prepros a toolbar appears on the bottom of the Prepros window. You can use the toolbar to manage your projects options.
 
 ![Option Toolbar](img/projects/toolbar.jpg)
 
@@ -32,31 +32,19 @@ __About icons (in the order of image above)__
 
 * Refresh project files
 * Project options
-* [Optimize Images](image-optimization.html)
 * Open [project live url](live-refresh.html)
-* Remove project
 * Upload With FTP
-
-<div class="alert alert-info">You must refresh project after adding new file to project folder or importing one file from another file</div>
+* Remove project
+* More Project Options
 
 ### Project Options
 There are many options availabe to manage your projects. You can open options window by clicking the options button on the project toolbar.
 
 ![Project Options](img/projects/options.jpg)
 
-Options window contain the options whch you can use to manage your project options. There are three tabs on project options window.
+Options window contain the options whch you can use to manage your project options. There are three tabs on project options window. Options titles are self explanatory.
 
-__1. General__
-General tab contains the setting to change your project name and option to enable/disable [live refresh server](live-refresh.html) and use custom server for live refresh.
-
-__2. Folders__
-Folders tab contains options to set your default css, js and html folders.
-You can also change default options from [options window](config.html) before adding new project.
-
-__3. Filters__
-You can exclude certain files from project by adding filter patterns in comma seperated list. You can also add global filters from [options window](config.html).
 <div class="alert alert-info">Don't forget to refresh project after editing filters.</div>
-
 
 <div class="alert alert-info">You can double click project name to open project folder in explorer.</div>
 

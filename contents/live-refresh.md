@@ -5,7 +5,7 @@ template: index.jade
 
 Prepros can live refresh your browser whenever a change is made to your file.
 
-Live refresh works in Firefox, Chrome, Opera and IE10 if you are using built in http server.
+Live refresh works on Firefox, Chrome, Opera and IE10 and any other browser that is connected to the network and supports websockets.
 
 You can live refresh custom server via Chrome extension or become [pro user](/prepros/pro) user which allows to refresh other browsers and [multiple devices](multi-device-testing.html)
 

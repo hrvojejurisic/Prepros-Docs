@@ -44,13 +44,14 @@ To point Prepros to the Ruby installation on your system go to [options panel](c
 ![Custom ruby](img/sass-compass/ruby.jpg)
 
 
-## Using Bourbon and Neat
+## Using Bourbon and Neat and Bitters
 
 [Bourbon](http://bourbon.io) and Neat(http://neat.bourbon.io) come prebundled with Prepros. Just require it in your Sass file and you are good to go.
 
 ```css
 @import 'bourbon';
 @import 'neat';
+@import 'bitters';
 
 ~~ Your Css ~~
 ```

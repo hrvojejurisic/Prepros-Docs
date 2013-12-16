@@ -23,9 +23,9 @@ The above image shows the file options panel for a sass files. You can see optio
 
 You can also default file options from [options window](config.html) before adding project.
 
-You can also click the compile button or hit `CTRL+C` to compile file manually.
+You can also click the compile button or hit `CTRL+S` to compile file manually.
 
-You can also compile all files in the selected project by hitting `CTRL+SHIFT+C` on your keyboard.
+You can also compile all files in the selected project by hitting `CTRL+SHIFT+S` on your keyboard.
 
 <div class="alert alert-info">You can double click file to open with your default editor.</div>
 
